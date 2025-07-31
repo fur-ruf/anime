@@ -1,14 +1,4 @@
-# vue-pere
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Аниме-сайт с синхронизированными кастомными слайдерами на Vue.js с использованием библиотеки Swiper.js. Данные для проекта брались из открытого api: https://docs.api.jikan.moe/#tag/anime :)
 
 ## Project Setup
 
